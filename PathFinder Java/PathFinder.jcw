@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>PathFinder</label>
+		<id>1147</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>PathFinder.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PathFinder.jcp</path>
+		</project>
+	</projects>
+</workspace>
